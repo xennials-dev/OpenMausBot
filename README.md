@@ -62,6 +62,20 @@ Talk to them like contacts. Watch them work. Approve what matters.
 
 <img src="docs/screenshots/hero.png" alt="OpenMausBot — a Telegram-style chat app where every chat is a real AI agent" width="900">
 
+<br><br>
+
+### 🎬 Watch OpenMausBot in Action
+
+<a href="docs/assets/openmausbot-overview.mp4">
+  <img src="docs/assets/infographic-features.jpg" alt="Watch OpenMausBot Overview Video" width="850">
+</a>
+
+<p align="center">
+  ▶️ <b><a href="docs/assets/openmausbot-overview.mp4">Watch Full HD Overview Video (MP4)</a></b> &nbsp;·&nbsp; 
+  🕹️ <b><a href="docs/assets/openmausbot-demo.mp4">Watch Interactive Walkthrough (MP4)</a></b> &nbsp;·&nbsp;
+  🌐 <b><a href="https://openmausbot-chi.vercel.app">Try Live on Vercel</a></b>
+</p>
+
 </div>
 
 ---
@@ -69,6 +83,10 @@ Talk to them like contacts. Watch them work. Approve what matters.
 > ⚠️ **No affiliation with any cryptocurrency.** OpenMausBot has no token. Any coin using the OpenMausBot, Maus, or SupaMaus name is not created, endorsed, or affiliated with this project or its maintainer. I have received no tokens, payment, or allocation from anyone, and I will not be endorsing any token.
 
 ## Why
+
+<p align="center">
+  <img src="docs/assets/infographic-architecture.jpg" alt="OpenMausBot Architecture & Event Bus" width="900">
+</p>
 
 One assistant in one box is the wrong shape for agents. OpenMausBot is an independent, open-source project inspired by **Grok Bot** —
 it keeps the idea (AI as a *messaging app*: a roster of bots you chat with, each with its own personality,
@@ -103,6 +121,10 @@ apps, running on your machine under Apache 2.0. If you searched for an *open Mus
 
 All five side by side: [Muse vs Grok Bot vs Dots vs Cue](https://www.openmausbot.com/blog/muse-vs-grok-bot-vs-dots-vs-cue),
 and a decision guide in five questions: [Which AI agent should I use?](https://www.openmausbot.com/blog/which-ai-agent-should-i-use)
+
+<p align="center">
+  <img src="docs/assets/infographic-comparison.jpg" alt="OpenMausBot vs Proprietary Closed AI Agents Infographic" width="900">
+</p>
 
 ## Features
 
